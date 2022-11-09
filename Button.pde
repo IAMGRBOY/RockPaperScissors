@@ -20,6 +20,6 @@ class Button {
     noStroke();
     fill(rectC);
     rect(rectX, rectY, rectW, rectH);
-    
+   
   }
 }
